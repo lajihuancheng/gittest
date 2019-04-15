@@ -28,4 +28,9 @@ public class Main {
         long count = users.stream().filter(User -> "1".equals(User.getAge())&&"100".equals(User.getNum())).count();
         System.out.println(collect1);
     }
+
+
+    public  void setName(){
+
+    }
 }
