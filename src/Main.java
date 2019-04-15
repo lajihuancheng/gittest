@@ -32,5 +32,6 @@ public class Main {
 
     public  void setName(){
         System.out.println();
+        System.out.println("2323");
     }
 }
